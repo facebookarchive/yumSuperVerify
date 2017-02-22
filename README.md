@@ -1,6 +1,7 @@
-# Detect db corruption in Yum and RPM databases 
+# YumSuperVerify
 
-Many tools exist to do this, but we've found that no utility so far that catches all kinds of corruption. This is our attempt at that.
+YumSuperVerify is a utility to detect db corruption in Yum and RPM databases. Many tools exist to do this, but we've found that no utility so far that catches all kinds of corruption. This is our attempt at that.
+
 
 ## NOTES
 For all the checks to work, you may need to run this as root depending on whether or not the current user has write access to .rpm.lock.
