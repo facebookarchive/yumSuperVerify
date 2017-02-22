@@ -14,13 +14,14 @@ curious on which portions of your databases are corrupted
 There is also pretty output if run manually.
 
 ## Examples
+```
 18:03 $ sudo ./rpmdb_verify.py --fast  
 [    INFO]      RPMDB    verify_transaction_set:         OK  
 [    INFO]      RPMDB            verify_entries:         OK  
 [    INFO]      RPMDB                 yum_check:         OK  
 [    INFO]      YumDB         build_transaction:         OK  
 0
-
+```
 ## Requirements
 Python2.7 interpreter  
 rpm (binary must be in path)  
