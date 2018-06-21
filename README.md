@@ -1,3 +1,7 @@
+** THIS REPO HAS BEEN ARCHIVED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
+
+Check out [dcrpm](https://github.com/facebookincubator/dcrpm) instead.
+
 # YumSuperVerify
 
 YumSuperVerify is a utility to detect db corruption in Yum and RPM databases. Many tools exist to do this, but we've found that no utility so far that catches all kinds of corruption. This is our attempt at that.
